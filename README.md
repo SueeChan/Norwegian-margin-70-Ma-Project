@@ -1,1 +1,1 @@
-# Norwegian-margin-70-Ma
+# Norwegian margin 70 Ma
