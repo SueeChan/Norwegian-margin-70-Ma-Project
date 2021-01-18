@@ -3,7 +3,7 @@
 
     <!-- Regular grid structure -->
     <grid>
-      <demfile>../../../../badlands_constant_input/70Ma_topo.csv</demfile>
+      <demfile>../../badlands_constant_input/topography/70Ma_topo.csv</demfile>
         <boundary>slope</boundary>
         <resfactor>5</resfactor>
     </grid>
@@ -18,7 +18,7 @@
     <!-- Sea-level structure -->
     <sea>
         <position>0.</position>
-        <curve>../../badlands_constant_input/badlands_sl.csv</curve>
+        <curve>../../badlands_constant_input/sea_level/badlands_sl.csv</curve>
         <limit>200.</limit>
     </sea>
 
