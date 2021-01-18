@@ -1,4 +1,6 @@
 ## Scripts
 
-To run one of the models, `cd` into the appropriate directory (i.e. `scripts/{model_name}`), then run `run_models.py`.
-Outputs will be placed in the `results/{model_name}` directory.
+To run the model, change directory (i.e. `cd`) to `scripts` directory, then run `run_model.py`.
+Results are output into the `badlands_out` directory.
+
+Running the models requires an installation of Badlands (https://badlands.readthedocs.io/).
