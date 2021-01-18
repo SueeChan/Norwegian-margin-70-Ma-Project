@@ -7,6 +7,12 @@ This model explores the relative contribution of different factors, in particula
 
 ###### Keywords: `Norwegian margin, Iceland Plume, sediment dispersal, tectonic evolution`
 
+## Objective
+The aim of this project is to investigate the effects of different uplift scenarios and dynamic topography models on sediment flux and stratal structure to better understand the influence of the tectonic evolution on the sedimentation history in the region. Comprehensive numerical landscape evolution models, incorporating tectonic and climatic factors, are run with varying dynamic topography models and onshore tectonic uplift scenarios. The resulted sedimentation signals are separated from other factors and evaluated.
+
+This project also aims to give an estimation of sedimentation in the mid-Norwegian rift basin and link pulses of sediment flux with different denudation events to better understand the role of climatic and tectonic forcings through time.
+
+
 ## Software
 ### Badlands
 Badlands (https://badlands.readthedocs.io/) is a landscape evolution numerical modelling code developed within the EarthByte Group, School of Geoscience, The University of Sydney.
