@@ -25,7 +25,7 @@ Badlands (https://badlands.readthedocs.io/) is a landscape evolution numerical m
 
 
 ## Model setup:
-<img src="images/Norwegian_Setup.png" width="800" height="500"/>
+<img src="images/Norwegian_Setup.png"/>
 
 The initial topography is approximated by subtracting horizontal and vertical displacements (including dynamic topography and tectonics) from the present-day topography. The Miller et al. (2005) short term sea-level curve with a Cretaceous section from Haq (2014) is applied to the simulation. Lithospheric flexure is also taken into account. A) the present-day topography, B) the paleo-topography at 70 Ma, C) present-day precipitation rates and D) the timing of plume impingement and amplitude of dynamic topography experienced in the Norwegian continental and passive margins of the Barnett-Moore et al. (2017) dynamic topography and the Hybrid dynamic topography.
 
